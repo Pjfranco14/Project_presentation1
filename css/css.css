@@ -1,0 +1,55 @@
+section{
+    width: 1300px;
+    height: 650px;
+    margin: auto auto;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+
+}
+.cuadro1{
+    background-color: #39B6BB;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-top: 50px;
+    margin-left:125px;
+    border: 1px solid darkblue;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-image: url(../img/sistema_solar.jpg)
+   
+}
+.cuadro2{
+    color: #FFFFFF;
+    background-color: #39B6BB;
+    width: 500px;
+    height: 500px;
+    float:left;
+    margin-top: 50px;
+    margin-left: 66px;
+    border: 1px solid darkblue;
+    background-position:right;
+    background-repeat: no-repeat;
+    background-image: url(../img/constelacion.jpg)
+    
+}
+h1{
+    font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 130px;
+}
+p2{
+    font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 130px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}    
+              

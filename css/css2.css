@@ -1,0 +1,139 @@
+.section{
+    background-color: #FFFFFF;
+    width: 1300px;
+    margin: auto auto;
+    height: 650px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.titulo2{
+	color: gray;
+	font-family: 'Pangolin', cursive;
+    text-align: left;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-left: 125px;
+    
+}
+.cuadro1{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 130px;
+    margin-top: 40px;
+
+}
+.cuadro2{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.cuadro3{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 40px;
+
+}
+.cuadro4{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.cuadro5{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.cuadro6{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 130px;
+    margin-top: 15px;
+}
+.cuadro7{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.cuadro8{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.cuadro9{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.cuadro10{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image: url(../img/93121.png);
+    background-position:center;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+img{
+    justify-content: center;
+    margin-top: 20px;
+    width: 139px;
+    height: 140px;
+
+}
+.imgS{
+   width: 150px;
+   height: 100px;
+   margin-top: 55px;
+}
+   
+.satelite{
+   justify-content: center;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+}
+p1{
+   font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 130px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}    
