@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding:0;
+}
+.correo{
+    background-color: #FF8282;
+    width: 100%;
+    margin: auto auto auto auto;
+    height: 70px;
+    text-align: right;
+    margin-bottom: auto;
+    
+
+}
+.correo p{
+    font-family: 'Pangolin', cursive;
+    color: #FFFFFF;
+    font-size: 22px;
+    padding-right:135px;
+    padding-top: 22px;
+   
+}
